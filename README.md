@@ -1,16 +1,16 @@
 # GY_Games_TestOne
 
 
-eclipse è¾“å…¥ä¸­æ–‡æµ‹è¯•ï¼
+eclipse ÊäÈëÖĞÎÄ²âÊÔ£¡
 
-GBK å†™ä¸­æ–‡
+GBK Ğ´ÖĞÎÄ
 
-ISO-8859-1 å†™ä¸­æ–‡
+ISO-8859-1 Ğ´ÖĞÎÄ
 
  We've detected the file encoding as GB18030. When you commit changes we will transcode it to UTF-8
  
- è¾“å…¥ä¸­æ–‡æµ‹è¯•
+ ÊäÈëÖĞÎÄ²âÊÔ
 
-ä¸­æ–‡
+ÖĞÎÄ
 
-
+ISO-8859-1 Ğ´ÖĞÎÄ
